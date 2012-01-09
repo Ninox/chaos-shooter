@@ -1,0 +1,6 @@
+#ifndef EFFECT_H_INCLUDED
+#define EFFECT_H_INCLUDED
+
+
+
+#endif // EFFECT_H_INCLUDED
