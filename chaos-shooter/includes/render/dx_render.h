@@ -1,0 +1,6 @@
+#ifndef DX_RENDER_H_INCLUDED
+#define DX_RENDER_H_INCLUDED
+
+
+
+#endif // DX_RENDER_H_INCLUDED
